@@ -26,7 +26,7 @@ Other supported browsers will have their own drivers available. Links to some of
 1) Chrome: 	https://sites.google.com/a/chromium.org/chromedriver/downloads
 2) Edge: 	https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 3) Firefox: 	https://github.com/mozilla/geckodriver/releases
-4) Safari: 	https://webkit.org/blog/6900/webdriver-support-in-safari-10/
+4) Safari: 	https://webkit.org/blog/6900/webdriver-support-in-safari-10
 
 For more information, [see](http://selenium-python.readthedocs.io/installation.html#introduction)
 
