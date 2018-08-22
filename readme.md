@@ -1,5 +1,8 @@
-## Automated Selenium
+# Automated Selenium [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Automated-Selenium/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 This code uses selenium for web browser automation.
+
+### Sourcerer
+[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Automated-Selenium/images/0)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Automated-Selenium/links/0)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Automated-Selenium/images/1)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Automated-Selenium/links/1)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Automated-Selenium/images/2)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Automated-Selenium/links/2)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Automated-Selenium/images/3)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Automated-Selenium/links/3)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Automated-Selenium/images/4)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Automated-Selenium/links/4)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Automated-Selenium/images/5)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Automated-Selenium/links/5)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Automated-Selenium/images/6)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Automated-Selenium/links/6)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Automated-Selenium/images/7)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Automated-Selenium/links/7)
 
 ### Code Requirements
 The example code is in Python ([version 2.7](https://www.python.org/download/releases/2.7/) or higher will work). 
